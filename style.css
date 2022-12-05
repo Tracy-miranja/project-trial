@@ -1,42 +1,46 @@
-body{
-    background-color: hsl(196, 55%, 84%);
+body {
+  background-color: hsl(196, 55%, 84%);
 }
-#img-div{
-    width: 100%;
-    height: 500px;
-    background-color: antiquewhite;
-    margin-left: auto;
-    margin-right: auto;
-    
 
+#img-div {
+  width: 100%;
+  height: 500px;
+  background-color: antiquewhite;
+  margin-left: auto;
+  margin-right: auto;
 }
-#title{
-    text-align: center;
+
+#title {
+  text-align: center;
 }
-p{
-    text-align: center;
+
+p {
+  text-align: center;
 }
-#image{
-    align-content:center;
-    width: 750px;
-    height: 450px;
-    margin-top: 10px;
-    display: block;
-    margin-left: auto;
-    margin-right: auto;
-    
+
+#image {
+  align-content: center;
+  width: 750px;
+  height: 450px;
+  margin-top: 10px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
 }
-#img-caption{
-    text-align: center;
-    
+
+#img-caption {
+  text-align: center;
 }
-h3{
-    text-align: center;
+
+h3 {
+  text-align: center;
 }
+
 ul.myUL {
-    display: inline-block;
-    text-align: left;
-  }
-#tribute-info{
-    text-align: center;
+  display: inline-block;
+  text-align: left;
+}
+
+#tribute-info {
+  text-align: center;
 }
