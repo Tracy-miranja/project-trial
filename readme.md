@@ -28,7 +28,7 @@ README.md
  
 # 📖 MIRANJA TRACY <a name="about-project"></a>
  
-**MIRANJA TRACY Portfolio** is a webpage That i have created to test whether i grasp steps i learnt.
+**MIRANJA TRACY trial project** is a webpage That i have created to test whether i grasp steps i learnt.
  
 ## 🛠 Built With <a name="built-with"></a>
  
@@ -48,7 +48,7 @@ README.md
  
 ## 🚀 Live Demo <a name="live-demo"></a>
  
-- [Live Demo Link](https://github.com/Tracy-miranja/portfolio)
+- [Live Demo Link](https://github.com/Tracy-miranja/project-trial)
  
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
  
@@ -72,7 +72,7 @@ Clone this repository to your desired folder:
  
 ```sh
   cd my-folder
-  git clone git@github.com:Tracy-miranja/Tracy-miranja/hello-microverse.git
+  git clone git@github.com:Tracy-miranja/Tracy-miranja/project-trial.git
 ```
  
 ### Install
@@ -81,7 +81,7 @@ Install this project with:
  
 ```sh
   cd my-folder
-  git clone git@github.com:Tracy-miranja/Tracy-miranja/hello-microverse.git
+  git clone git@github.com:Tracy-miranja/Tracy-miranja/project-trial.git
  
 ### Usage
  
